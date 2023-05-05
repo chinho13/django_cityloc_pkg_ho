@@ -6,7 +6,7 @@
 Welcome to django_cityloc_pkg_ho's documentation!
 =================================================
 
-.. automodule:: django_cityloc_pkg_ho
+.. automodule:: django_cityloc_pkg
       :members:
 
 
